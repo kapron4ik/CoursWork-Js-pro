@@ -1,0 +1,16 @@
+#root {
+    display: flex;
+    height: 450px;
+}
+
+.home_screen {
+    margin: auto;
+}
+
+.home_page_frame{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}

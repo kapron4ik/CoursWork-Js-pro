@@ -1,0 +1,24 @@
+/* @import './home.css'; */
+@import './barMenu.css';
+
+.exercises_screen {
+    display: flex
+}
+
+.myTrainingObs {
+    width: 392px;
+    border-right: 1px solid rgba(255, 255, 255, 0.1);
+    height: auto;
+    padding-left: 10px;
+}
+
+.exercicesMain {
+    /* display: flex; */
+    margin-top: 25px;
+    width: 600px;
+
+}
+
+
+
+

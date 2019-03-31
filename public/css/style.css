@@ -1,0 +1,16 @@
+@import './barMenu.css';
+@import './exercises.css';
+@import './home.css';
+@import './authorization.css';
+@import './registration.css';
+@import './training.css';
+
+
+
+
+
+
+
+body {
+    background-color: lightslategray;
+}

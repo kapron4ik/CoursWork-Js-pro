@@ -1,0 +1,20 @@
+.training {
+    width: 150px;
+    height: 150px;
+    background: rgb(91, 145, 9);
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.training h4 {
+    margin-left: 10px;
+}
+
+.training p {
+    margin-left: 10px;
+}
+
+.dayTraining,.ExerciceDayTraining {
+    margin-left: 25px;
+    margin-top: 20px;;
+}

@@ -1,0 +1,24 @@
+.main {
+    display: flex;
+    flex-direction: column;
+}
+.barMenu {
+    display: flex;
+    background: black;
+}
+
+.barMenu div{
+    display: flex;
+    width: 200px;
+    height: 60px;
+    color: #fff;
+    border-right: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.btnBar {
+    cursor: pointer;
+}
+
+.barMenu div span {
+    margin: auto;
+}
